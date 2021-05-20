@@ -123,6 +123,3 @@ function mouseDragged(){
 function mouseReleased(){
   slingShot.fly();
 }
-function keyPressed(){
-//write code for extra chance of the player
-}
